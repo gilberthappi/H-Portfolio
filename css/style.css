@@ -1129,7 +1129,7 @@ mark {
 }
 
 .section {
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 @media (max-width: 767px) {
@@ -1208,8 +1208,8 @@ mark {
 }
 
 .separated {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     position: relative;
 }
 
@@ -1239,8 +1239,8 @@ mark {
 
 @media (max-width: 767px) {
     .separated {
-        padding-top: 60px;
-        padding-bottom: 60px;
+        padding-top: 16px;
+        padding-bottom: 16px;
     }
 }
 
@@ -2016,11 +2016,6 @@ mark {
 /* Contact Us
 -----------------------------------*/
 
-
-#contactus .col-lg-7 {
-    padding: 0px 0;
-    margin-bottom: -100px;
-}
 
 .contact-info {
     background: #0b0b13;

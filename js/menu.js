@@ -1188,17 +1188,6 @@
                                 })]
                             })
                         }), (0, a.jsx)("li", {
-                            "data-menuanchor": "services",
-                            children: (0, a.jsxs)("a", {
-                                className: "nav-link",
-                                href: "#services",
-                                children: [(0, a.jsx)("i", {
-                                    className: "ti-panel"
-                                }), (0, a.jsx)("span", {
-                                    children: "Services"
-                                })]
-                            })
-                        }), (0, a.jsx)("li", {
                             "data-menuanchor": "work",
                             children: (0, a.jsxs)("a", {
                                 className: "nav-link",
@@ -1207,6 +1196,17 @@
                                     className: "ti-bookmark-alt"
                                 }), (0, a.jsx)("span", {
                                     children: "Portfolio"
+                                })]
+                            })
+                        }), (0, a.jsx)("li", {
+                            "data-menuanchor": "services",
+                            children: (0, a.jsxs)("a", {
+                                className: "nav-link",
+                                href: "#services",
+                                children: [(0, a.jsx)("i", {
+                                    className: "ti-panel"
+                                }), (0, a.jsx)("span", {
+                                    children: "Services"
                                 })]
                             })
                         }), (0, a.jsx)("li", {

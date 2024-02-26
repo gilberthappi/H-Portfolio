@@ -161,7 +161,7 @@
                                             children: [(0, l.jsx)("h6", {
                                                 children: "Framework:"
                                             }),  (0, l.jsxs)("p", {
-                                                children: ["Ruby on Rails, ReactJS, jQuery, Bootstrap, SASS/LESS,Vue js, Node js."]
+                                                children: ["Ruby on Rails, ReactJS, jQuery, Bootstrap, Laravel, Node js."]
                                             }),]
                                         }),
                                         (0, l.jsxs)("div", {
