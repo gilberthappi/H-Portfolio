@@ -127,7 +127,7 @@
                                             }), (0, l.jsx)("h6", {
                                                 children: "Back-End Developer"
                                             }), (0, l.jsx)("p", {
-                                                children: "KLab, on-site"
+                                                children: "KLab, on-site, Kigali"
                                             })]
                                         }),
                                         (0, l.jsxs)("li", {
@@ -147,76 +147,48 @@
                                         children: [(0, l.jsx)("h3", {
                                             children: "My skills"
                                         }), (0, l.jsxs)("p", {
-                                            children: ["I'm", " a Freelancer Front-end Developer with over 3 years of experience. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences."]
+                                            children: ["I'm", " a Freelancer Ful-Stack Developer with over 1 years of experience. I code and create web elements for amazing people around the world. I like work with new people. New people new Experiences."]
                                         }), (0, l.jsxs)("div", {
                                             className: "skill-lt",
                                             children: [(0, l.jsx)("h6", {
-                                                children: "HTML5"
-                                            }), (0, l.jsx)("div", {
-                                                className: "skill-bar",
-                                                children: (0, l.jsx)("div", {
-                                                    className: "skill-bar-in",
-                                                    style: {
-                                                        width: "92%"
-                                                    },
-                                                    children: (0, l.jsx)("span", {
-                                                        "data-toggle": "tooltip",
-                                                        title: "92%"
-                                                    })
-                                                })
-                                            })]
-                                        }), (0, l.jsxs)("div", {
+                                                children: "Languages:"
+                                            }),  (0, l.jsxs)("p", {
+                                                children: ["JavaScript(ES6), Python, Ruby, HTML5, CSS3"]
+                                            }),]
+                                        }), 
+                                        (0, l.jsxs)("div", {
                                             className: "skill-lt",
                                             children: [(0, l.jsx)("h6", {
-                                                children: "CSS"
-                                            }), (0, l.jsx)("div", {
-                                                className: "skill-bar",
-                                                children: (0, l.jsx)("div", {
-                                                    className: "skill-bar-in",
-                                                    style: {
-                                                        width: "72%"
-                                                    },
-                                                    children: (0, l.jsx)("span", {
-                                                        "data-toggle": "tooltip",
-                                                        title: "72%"
-                                                    })
-                                                })
-                                            })]
-                                        }), (0, l.jsxs)("div", {
+                                                children: "Framework:"
+                                            }),  (0, l.jsxs)("p", {
+                                                children: ["Ruby on Rails, ReactJS, jQuery, Bootstrap, SASS/LESS,Vue js, Node js."]
+                                            }),]
+                                        }),
+                                        (0, l.jsxs)("div", {
                                             className: "skill-lt",
                                             children: [(0, l.jsx)("h6", {
-                                                children: "PHP"
-                                            }), (0, l.jsx)("div", {
-                                                className: "skill-bar",
-                                                children: (0, l.jsx)("div", {
-                                                    className: "skill-bar-in",
-                                                    style: {
-                                                        width: "86%"
-                                                    },
-                                                    children: (0, l.jsx)("span", {
-                                                        "data-toggle": "tooltip",
-                                                        title: "86%"
-                                                    })
-                                                })
-                                            })]
-                                        }), (0, l.jsxs)("div", {
+                                                children: "Databases:"
+                                            }),  (0, l.jsxs)("p", {
+                                                children: ["MySQL, PostgreSQL, SQLite, MongoDB"]
+                                            }),]
+                                        }),
+                                        (0, l.jsxs)("div", {
                                             className: "skill-lt",
                                             children: [(0, l.jsx)("h6", {
-                                                children: "UI/UX"
-                                            }), (0, l.jsx)("div", {
-                                                className: "skill-bar",
-                                                children: (0, l.jsx)("div", {
-                                                    className: "skill-bar-in",
-                                                    style: {
-                                                        width: "88%"
-                                                    },
-                                                    children: (0, l.jsx)("span", {
-                                                        "data-toggle": "tooltip",
-                                                        title: "88%"
-                                                    })
-                                                })
-                                            })]
-                                        })]
+                                                children: "Tools:"
+                                            }),  (0, l.jsxs)("p", {
+                                                children: ["Github, Npm, Webpack, Parcel, Heroku, Netlify."]
+                                            }),]
+                                        }),
+                                        (0, l.jsxs)("div", {
+                                            className: "skill-lt",
+                                            children: [(0, l.jsx)("h6", {
+                                                children: "Graphics:"
+                                            }),  (0, l.jsxs)("p", {
+                                                children: ["Photoshop, Illustrator, Aftereffect, Premiere-pro, Sketch"]
+                                            }),]
+                                    })
+                                    ]
                                     })
                                 })]
                             }), (0, l.jsx)("div", {
