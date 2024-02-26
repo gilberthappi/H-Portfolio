@@ -107,27 +107,36 @@
                                         className: "aducation-box",
                                         children: [(0, l.jsxs)("li", {
                                             children: [(0, l.jsx)("span", {
-                                                children: "2010-2012"
+                                                children: "2021-present"
                                             }), (0, l.jsx)("h6", {
-                                                children: "Graphic Designer"
+                                                children: "Bachelor of Computer and Software Engineering"
                                             }), (0, l.jsx)("p", {
-                                                children: "International Design Institute"
+                                                children: "University of Rwanda, Kigali"
                                             })]
                                         }), (0, l.jsxs)("li", {
                                             children: [(0, l.jsx)("span", {
-                                                children: "2010-2012"
+                                                children: "2023-present"
                                             }), (0, l.jsx)("h6", {
-                                                children: "Web Development"
+                                                children: "Full-Stack Developer"
                                             }), (0, l.jsx)("p", {
-                                                children: "International Design Institute"
+                                                children: "Microverse, Remote"
                                             })]
-                                        }), (0, l.jsxs)("li", {
+                                        }),  (0, l.jsxs)("li", {
                                             children: [(0, l.jsx)("span", {
-                                                children: "2010-2012"
+                                                children: "2023-2024"
                                             }), (0, l.jsx)("h6", {
-                                                children: "Search Engine Optimization"
+                                                children: "Back-End Developer"
                                             }), (0, l.jsx)("p", {
-                                                children: "International Design Institute"
+                                                children: "KLab, on-site"
+                                            })]
+                                        }),
+                                        (0, l.jsxs)("li", {
+                                            children: [(0, l.jsx)("span", {
+                                                children: "2023-2012"
+                                            }), (0, l.jsx)("h6", {
+                                                children: "A2 in Mathematics, Physics and Geography"
+                                            }), (0, l.jsx)("p", {
+                                                children: "College de Butamwa, Kigali"
                                             })]
                                         })]
                                     })
