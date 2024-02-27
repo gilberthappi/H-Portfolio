@@ -373,7 +373,7 @@
                                                     className: "ti-map"
                                                 }), (0, n.jsx)("span", {
                                                     className: "media-body",
-                                                    children: "123 Street Kigali City , Rwanda 4600762."
+                                                    children: "KN 47 st Street Kigali City , Rwanda ."
                                                 })]
                                             }), (0, n.jsxs)("li", {
                                                 className: "media",
@@ -707,7 +707,7 @@
                         id: "work",
                         "data-nav-tooltip": "Work",
                         className: "pp-section pp-scrollable section dark-bg",
-                        children: (0, l.jsxs)("div", {
+                        children: (0, l.jsx)("div", {
                             className: "container",
                             children: [(0, l.jsx)("div", {
                                 className: "title",

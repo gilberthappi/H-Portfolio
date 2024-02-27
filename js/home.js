@@ -44,7 +44,7 @@
                 }, []), (0, i.jsxs)(c.Fragment, {
                     children: [(0, i.jsxs)(l(), {
                         children: [(0, i.jsx)("title", {
-                            children: "Portfolio"
+                            children: "Happi"
                         }), (0, i.jsx)("link", {
                             rel: "shortcut icon",
                             type: "image/x-icon",
@@ -184,7 +184,7 @@
                                                     className: "btn-bar",
                                                     children: (0, i.jsx)("a", {
                                                         className: "px-btn px-btn-theme",
-                                                        href: "#",
+                                                        href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
                                                         children: "Download CV"
                                                     })
                                                 })]
@@ -218,7 +218,7 @@
                     var e = (0, a.useRef)(null);
                     return (0, a.useEffect)(function() {
                         var s = new(c())(e.current, {
-                            strings: ["Web Designer", "Developer", "Freelancer"],
+                            strings: ["Web Designer", "Full-Stack Developer", "Freelancer"],
                             typeSpeed: 100,
                             backSpeed: 100,
                             backDelay: 100,
