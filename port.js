@@ -1,5 +1,3 @@
-// portfolio JS.......................................
-
 "use strict";
 (self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
     [424], {
@@ -106,13 +104,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-1.jpg",
+                                                src: "static/img/m-portfolio-1.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-1.jpg",
+                                                    href: "static/img/m-portfolio-1.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -136,13 +134,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-2.jpg",
+                                                src: "static/img/m-portfolio-2.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-2.jpg",
+                                                    href: "static/img/m-portfolio-2.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -166,13 +164,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-3.jpg",
+                                                src: "static/img/m-portfolio-3.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-3.jpg",
+                                                    href: "static/img/m-portfolio-3.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -196,13 +194,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-5.jpg",
+                                                src: "static/img/m-portfolio-5.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-5.jpg",
+                                                    href: "static/img/m-portfolio-5.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -226,13 +224,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-4.jpg",
+                                                src: "static/img/m-portfolio-4.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-4.jpg",
+                                                    href: "static/img/m-portfolio-4.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -256,13 +254,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-6.jpg",
+                                                src: "static/img/m-portfolio-6.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-6.jpg",
+                                                    href: "static/img/m-portfolio-6.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -286,13 +284,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-7.jpg",
+                                                src: "static/img/m-portfolio-7.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-7.jpg",
+                                                    href: "static/img/m-portfolio-7.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -316,13 +314,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-8.jpg",
+                                                src: "static/img/m-portfolio-8.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-8.jpg",
+                                                    href: "static/img/m-portfolio-8.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"
@@ -346,13 +344,13 @@
                                         }), (0, l.jsxs)("div", {
                                             className: "portfolio-img",
                                             children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-9.jpg",
+                                                src: "static/img/m-portfolio-9.jpg",
                                                 title: "",
                                                 alt: ""
                                             }), (0, l.jsx)("div", {
                                                 className: "portfolio-icon",
                                                 children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-9.jpg",
+                                                    href: "static/img/m-portfolio-9.jpg",
                                                     className: "gallery-link",
                                                     children: (0, l.jsx)("span", {
                                                         className: "ti-plus"

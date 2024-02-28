@@ -77,13 +77,13 @@
                                                 className: "btn-bar",
                                                 children: [(0, l.jsx)("a", {
                                                     className: "px-btn px-btn-theme",
-                                                    href: "#",
+                                                    href: "#contactus",
                                                     children: (0, l.jsx)("span", {
                                                         children: "Contact Me"
                                                     })
                                                 }), (0, l.jsx)("a", {
                                                     className: "px-btn px-btn-theme",
-                                                    href: "#",
+                                                    href: "#work",
                                                     children: (0, l.jsx)("span", {
                                                         children: "Portfolio"
                                                     })
@@ -537,7 +537,7 @@
                                 children: [(0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
+                                        className: "feature-box-2 media",
                                             children: [(0, l.jsx)("img", {
                                                 className: "icon theme-bg",
                                                 src: "img/web-design.png",
@@ -555,7 +555,7 @@
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
+                                        className: "feature-box-2 media",
                                         children: [(0, l.jsx)("img", {
                                             className: "icon theme-bg",
                                             src: "img/web-developer.png",
@@ -573,7 +573,7 @@
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
+                                        className: "feature-box-2 media",
                                         children: [(0, l.jsx)("img", {
                                             className: "icon theme-bg",
                                             src: "img/requirement-analysis.png",
@@ -591,7 +591,7 @@
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
+                                        className: "feature-box-2 media",
                                         children: [(0, l.jsx)("img", {
                                             className: "icon theme-bg",
                                             src: "img/system-architecture.png",
@@ -609,7 +609,7 @@
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
+                                        className: "feature-box-2 media",
                                         children: [(0, l.jsx)("img", {
                                             className: "icon theme-bg",
                                             src: "img/QA-testing.png",
@@ -627,7 +627,7 @@
                                 }), (0, l.jsx)("div", {
                                     className: "col-sm-6 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
+                                        className: "feature-box-2 media",
                                         children: [(0, l.jsx)("img", {
                                             className: "icon theme-bg",
                                             src: "img/m-support.png",
@@ -650,379 +650,277 @@
                     })
                 };
             s.Z = n
-        }
-    }
-]);
-
-// portfolio JS.......................................
-
-"use strict";
-(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
-    [424], {
-        9424: function(i, s, o) {
-            o.r(s);
-            var l = o(5893),
-                a = o(3391),
-                e = o.n(a),
-                c = o(7294),
-                r = function() {
-                    var i = (0, c.useRef)(),
-                        s = (0, c.useState)("*"),
-                        o = s[0],
-                        a = s[1];
-                    (0, c.useEffect)(function() {
-                        window.addEventListener("load", function() {
-                            return i.current = new(e())(".portfolio-content", {
-                                    itemSelector: ".grid-item",
-                                    percentPosition: !0,
-                                    masonry: {
-                                        columnWidth: ".grid-item"
-                                    },
-                                    animationOptions: {
-                                        duration: 750,
-                                        easing: "linear",
-                                        queue: !1
-                                    }
-                                }),
-                                function() {
-                                    return i.current.destroy()
-                                }
-                        })
-                    }), (0, c.useEffect)(function() {
-                        i.current && ("*" === o ? i.current.arrange({
-                            filter: "*"
-                        }) : i.current.arrange({
-                            filter: ".".concat(o)
-                        }))
-                    }, [o]);
-                    var r = function(i) {
-                            return function() {
-                                a(i)
-                            }
-                        },
-                        t = function(i) {
-                            return i === o ? "active" : ""
-                        };
+        },
+        9924: function(e, s, i) {
+            var l = i(5893),
+                a = i(5152),
+                c = i.n(a)()(function() {
+                    return Promise.all([i.e(719), i.e(112)]).then(i.bind(i, 6112))
+                }, {
+                    loadableGenerated: {
+                        webpack: function() {
+                            return [6112]
+                        }
+                    },
+                    ssr: !1
+                }),
+                n = function() {
                     return (0, l.jsx)("section", {
                         id: "work",
-                        "data-nav-tooltip": "Work",
-                        className: "pp-section pp-scrollable section dark-bg",
-                        children: (0, l.jsx)("div", {
+                         "data-nav-tooltip": "Work",
+                        className: "pp-section pp-scrollable section",
+                        children: (0, l.jsxs)("div", {
                             className: "container",
                             children: [(0, l.jsx)("div", {
                                 className: "title",
                                 children: (0, l.jsx)("h3", {
-                                    children: "My Portfolio."
+                                    children: "My Portfolio"
                                 })
-                            }), (0, l.jsx)("div", {
-                                className: "portfolio-filter-01",
-                                children: (0, l.jsxs)("ul", {
-                                    className: "filter nav",
-                                    children: [(0, l.jsx)("li", {
-                                        className: "c-pointer ".concat(t("*")),
-                                        onClick: r("*"),
-                                        "data-filter": "*",
-                                        children: "All"
-                                    }), (0, l.jsx)("li", {
-                                        className: "c-pointer ".concat(t("branding")),
-                                        onClick: r("branding"),
-                                        "data-filter": ".branding",
-                                        children: "Branding"
-                                    }), (0, l.jsx)("li", {
-                                        className: "c-pointer ".concat(t("photoshop")),
-                                        onClick: r("photoshop"),
-                                        "data-filter": ".photoshop",
-                                        children: "Photoshop"
-                                    }), (0, l.jsx)("li", {
-                                        className: "c-pointer ".concat(t("fashion")),
-                                        onClick: r("fashion"),
-                                        "data-filter": ".fashion",
-                                        children: "Fashion"
-                                    }), (0, l.jsx)("li", {
-                                        className: "c-pointer ".concat(t("product")),
-                                        onClick: r("product"),
-                                        "data-filter": ".product",
-                                        children: "Product"
-                                    })]
-                                })
-                            }), " ", (0, l.jsxs)("div", {
-                                className: "portfolio-content grid-gutter-lg grid-col-3 lightbox-gallery",
+                            }), (0, l.jsxs)("div", {
+                                className: "row",
                                 children: [(0, l.jsx)("div", {
-                                    className: "grid-item product branding fashion",
+                                    className: "col-sm-4 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
-                                            children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-1.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-1.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
+                                        className: "feature-box-01 media",
+                                            children: [(0, l.jsxs)("div", {
+                                                className: "feature-content media-body",
+                                                children: [(0, l.jsx)("h5", {
+                                                    children: "Web Design"
+                                                }),(0, l.jsx)("div", {
+                                                className: "image-container",
+                                                children: [
+                                                    (0, l.jsx)("img", {
+                                                        className: "icon theme-bg",
+                                                        src: "img/web-design.png",
+                                                        title: "",
+                                                        alt: ""
+                                                    }),
+                                                    (0, l.jsx)("div", {
+                                                        className: "description",
+                                                        children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
                                                     })
-                                                })
-                                            })]
+                                                ]
+                                            }),(0, l.jsx)("div", {
+                                                className: "btn-bar",
+                                                children: [
+                                                    (0, l.jsx)("a", {
+                                                        className: "px-btni px-btn-theme px-btn1",
+                                                        href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                        children: "Preview"
+                                                    }),
+                                                    (0, l.jsx)("a", {
+                                                        className: "px-btni px-btn-theme px-btn2",
+                                                        href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                        children: "Github"
+                                                    })
+                                                ]
+                                            }), ]
                                         })]
                                     })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item photoshop",
+                                }), (0, l.jsx)("div", {
+                                    className: "col-sm-4 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
+                                        className: "feature-box-01 media",
                                         children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
+                                            className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-2.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-2.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
+                                                children: "Web Design"
+                                            }),(0, l.jsx)("div", {
+                                            className: "image-container",
+                                            children: [
+                                                (0, l.jsx)("img", {
+                                                    className: "icon theme-bg",
+                                                    src: "img/web-design.png",
+                                                    title: "",
+                                                    alt: ""
+                                                }),
+                                                (0, l.jsx)("div", {
+                                                    className: "description",
+                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
                                                 })
-                                            })]
-                                        })]
+                                            ]
+                                        }),(0, l.jsx)("div", {
+                                            className: "btn-bar",
+                                            children: [
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn1",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Preview"
+                                                }),
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn2",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Github"
+                                                })
+                                            ]
+                                        }), ]
+                                    })]
                                     })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item product branding",
+                                }), (0, l.jsx)("div", {
+                                    className: "col-sm-4 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
+                                        className: "feature-box-01 media",
                                         children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
+                                            className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-3.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-3.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
+                                                children: "Web Design"
+                                            }),(0, l.jsx)("div", {
+                                            className: "image-container",
+                                            children: [
+                                                (0, l.jsx)("img", {
+                                                    className: "icon theme-bg",
+                                                    src: "img/web-design.png",
+                                                    title: "",
+                                                    alt: ""
+                                                }),
+                                                (0, l.jsx)("div", {
+                                                    className: "description",
+                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
                                                 })
-                                            })]
-                                        })]
+                                            ]
+                                        }),(0, l.jsx)("div", {
+                                            className: "btn-bar",
+                                            children: [
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn1",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Preview"
+                                                }),
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn2",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Github"
+                                                })
+                                            ]
+                                        }), ]
+                                    })]
                                     })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item product photoshop",
+                                }), (0, l.jsx)("div", {
+                                    className: "col-sm-4 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
+                                        className: "feature-box-01 media",
                                         children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
+                                            className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-5.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-5.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
+                                                children: "Web Design"
+                                            }),(0, l.jsx)("div", {
+                                            className: "image-container",
+                                            children: [
+                                                (0, l.jsx)("img", {
+                                                    className: "icon theme-bg",
+                                                    src: "img/web-design.png",
+                                                    title: "",
+                                                    alt: ""
+                                                }),
+                                                (0, l.jsx)("div", {
+                                                    className: "description",
+                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
                                                 })
-                                            })]
-                                        })]
+                                            ]
+                                        }),(0, l.jsx)("div", {
+                                            className: "btn-bar",
+                                            children: [
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn1",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Preview"
+                                                }),
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn2",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Github"
+                                                })
+                                            ]
+                                        }), ]
+                                    })]
                                     })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item branding",
+                                }), (0, l.jsx)("div", {
+                                    className: "col-sm-4 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
+                                        className: "feature-box-01 media",
                                         children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
+                                            className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-4.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-4.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
+                                                children: "Web Design"
+                                            }),(0, l.jsx)("div", {
+                                            className: "image-container",
+                                            children: [
+                                                (0, l.jsx)("img", {
+                                                    className: "icon theme-bg",
+                                                    src: "img/web-design.png",
+                                                    title: "",
+                                                    alt: ""
+                                                }),
+                                                (0, l.jsx)("div", {
+                                                    className: "description",
+                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
                                                 })
-                                            })]
-                                        })]
+                                            ]
+                                        }),(0, l.jsx)("div", {
+                                            className: "btn-bar",
+                                            children: [
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn1",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Preview"
+                                                }),
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn2",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Github"
+                                                })
+                                            ]
+                                        }), ]
+                                    })]
                                     })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item product photoshop",
+                                }), (0, l.jsx)("div", {
+                                    className: "col-sm-4 m-15px-tb",
                                     children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
+                                        className: "feature-box-01 media",
                                         children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
+                                            className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-6.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-6.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
+                                                children: "Web Design"
+                                            }),(0, l.jsx)("div", {
+                                            className: "image-container",
+                                            children: [
+                                                (0, l.jsx)("img", {
+                                                    className: "icon theme-bg",
+                                                    src: "img/web-design.png",
+                                                    title: "",
+                                                    alt: ""
+                                                }),
+                                                (0, l.jsx)("div", {
+                                                    className: "description",
+                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
                                                 })
-                                            })]
-                                        })]
-                                    })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item fashion",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
-                                            children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-7.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-7.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
+                                            ]
+                                        }),(0, l.jsx)("div", {
+                                            className: "btn-bar",
+                                            children: [
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn1",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Preview"
+                                                }),
+                                                (0, l.jsx)("a", {
+                                                    className: "px-btni px-btn-theme px-btn2",
+                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    children: "Github"
                                                 })
-                                            })]
-                                        })]
+                                            ]
+                                        }), ]
+                                    })]
                                     })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item product branding",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
-                                            children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-8.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-8.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
-                                                })
-                                            })]
-                                        })]
-                                    })
-                                }), " ", (0, l.jsx)("div", {
-                                    className: "grid-item fashion",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "portfolio-box-01",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "portfolio-info",
-                                            children: [(0, l.jsx)("h5", {
-                                                className: "white-color font-weight-bold",
-                                                children: "Momb ios App"
-                                            }), (0, l.jsx)("span", {
-                                                children: "Broadcasting ios App"
-                                            })]
-                                        }), (0, l.jsxs)("div", {
-                                            className: "portfolio-img",
-                                            children: [(0, l.jsx)("img", {
-                                                src: "img/m-portfolio-9.jpg",
-                                                title: "",
-                                                alt: ""
-                                            }), (0, l.jsx)("div", {
-                                                className: "portfolio-icon",
-                                                children: (0, l.jsx)("a", {
-                                                    href: "img/m-portfolio-9.jpg",
-                                                    className: "gallery-link",
-                                                    children: (0, l.jsx)("span", {
-                                                        className: "ti-plus"
-                                                    })
-                                                })
-                                            })]
-                                        })]
-                                    })
-                                }), " "]
-                            })]
+                                })]
+                            }), (0, l.jsx)("div", {
+                                className: "separated"
+                            }), (0, l.jsx)(c, {})]
                         })
                     })
                 };
-            s.default = r
-        }
+            s.Z = n
+        },
     }
 ]);
+
