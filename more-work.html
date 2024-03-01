@@ -36,6 +36,9 @@
     <a href="#" class="back-button" onclick="goBack()">
         <img src="./img/back-arrow.png" alt="Back">
     </a>
+    <a href="#" class="color_switch" onclick="toggleTheme()">
+        <i class="fas fa-moon"></i>
+    </a>
     <section id="work" data-nav-tooltip="Work" class="pp-section pp-scrollable section">
         <div class="container">
             <div class="title">
@@ -265,6 +268,9 @@
     }
     function goToPortfolioSection() {
     window.location.href = 'index.html?section=work';
+}
+function toggleTheme() {
+    document.querySelector("body").classList.toggle("theme-light");
 }
 </script>
     <script id="__NEXT_DATA__" type="application/json">
