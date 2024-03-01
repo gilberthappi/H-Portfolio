@@ -147,6 +147,7 @@ mark {
     background: none;
     border: 1px solid transparent;
     font-size: 14px;
+    margin-top: 20px;
     font-weight: 400;
     letter-spacing: 2px;
     text-decoration: none !important;
@@ -2185,6 +2186,9 @@ mark {
 
 /* Additional styling for px-btn1 */
 .px-btn1 {
+    position: absolute;
+    bottom: 10px; /* Adjust this value according to your layout */
+    left: 40px; /* Adjust this value according to your layout */
     background-color: #2fbf71; 
     width: 100px;
     height: 30px;
@@ -2192,8 +2196,6 @@ mark {
     border: 2px solid #2fbf71; 
     border-radius: 6px; 
     padding: 3px 2px; 
-    margin-right: 10px; 
-    margin-top: 10px;
     text-decoration: none; 
     text-align: center;
     transition: background-color 0.3s, color 0.3s, border-color 0.3s; 
@@ -2202,6 +2204,7 @@ mark {
 @media (max-width: 991px) {
  .px-btn1 {
     margin-top: 0px;
+    left: 15px;
  }
 }
 
@@ -2218,7 +2221,11 @@ mark {
 }
 
 /* Additional styling for px-btn2 */
+
 .px-btn2 {
+    position: absolute;
+    bottom: 10px; /* Adjust this value according to your layout */
+    right: 40px; /* Adjust this value according to your layout */
     background-color: #2fbf71; 
     width: 100px;
     height: 30px;
@@ -2226,9 +2233,6 @@ mark {
     border: 2px solid #2fbf71;
     border-radius: 6px;
     padding: 3px 2px; 
-    margin-right: 10px;
-    margin-left: 10px; 
-    margin-top: 10px;
     text-decoration: none; 
     text-align: center;
     transition: background-color 0.3s, color 0.3s, border-color 0.3s;
@@ -2237,6 +2241,7 @@ mark {
 @media (max-width: 991px) {
     .px-btn2 {
        margin-top: 0px;
+       right: -150px;
     }
    }
 

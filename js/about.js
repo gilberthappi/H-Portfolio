@@ -685,19 +685,19 @@
                                             children: [(0, l.jsxs)("div", {
                                                 className: "feature-content media-body",
                                                 children: [(0, l.jsx)("h5", {
-                                                    children: "Web Design"
+                                                    children: "Math Magicians"
                                                 }),(0, l.jsx)("div", {
                                                 className: "image-container",
                                                 children: [
                                                     (0, l.jsx)("img", {
                                                         className: "icon theme-bg",
-                                                        src: "img/web-design.png",
+                                                        src: "../img/math.png",
                                                         title: "",
                                                         alt: ""
                                                     }),
                                                     (0, l.jsx)("div", {
                                                         className: "description",
-                                                        children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
+                                                        children: "In this project I am creating a Single Page App using React regarding basic Calculator and its functionalities."
                                                     })
                                                 ]
                                             }),(0, l.jsx)("div", {
@@ -705,12 +705,12 @@
                                                 children: [
                                                     (0, l.jsx)("a", {
                                                         className: "px-btni px-btn-theme px-btn1",
-                                                        href: "#",
+                                                        href: "https://math-magicians-rm17.onrender.com",
                                                         children: "Preview"
                                                     }),
                                                     (0, l.jsx)("a", {
                                                         className: "px-btni px-btn-theme px-btn2",
-                                                        href: "#",
+                                                        href: "https://github.com/gilberthappi/math-magicians",
                                                         children: "Github"
                                                     })
                                                 ]
@@ -724,19 +724,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
+                                                children: "A Tourism Website"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/web-design.png",
+                                                    src: "../img/travell_website_project.jpeg",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
+                                                    children: "A tourism website though simple but enables people to find the best destinations that worth themselves. Made JavaScript ES6 , HTML5 and CSS3."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
@@ -763,19 +763,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
+                                                children: "Budget Tracker"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/web-design.png",
+                                                    src: "../img/budget-app.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
+                                                    children: "A classic budget app to keep track of your expenses by category, made with Rails, Turbo's Stimulus and CSS."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
@@ -802,19 +802,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
+                                                children: "Token World (Crypto)"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/web-design.png",
+                                                    src: "../img/Cryptocurrency_project.webp",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
+                                                    children: "Discover comprehensive cryptocurrency data, including market cap, top and low selling prices, historical trends, and essential advice for informed decision-making, all on one platform."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
@@ -841,19 +841,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
+                                                children: "Recipe App"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/web-design.png",
+                                                    src: "../img/foodify_website.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
+                                                    children: "Explore a culinary journey worldwide, from Britain to Australia, featuring top-notch food and diverse recipes. Engage with likes and comments to share your culinary experiences."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
@@ -880,19 +880,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Web Design"
+                                                children: "BookMe"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/web-design.png",
+                                                    src: "../img/bookme.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Designing visually stunning websites that captivate audiences and reinforce brand identity through intuitive layouts and engaging user experiences."
+                                                    children: "An app enabling users to browse effortlessly. View all available tours, reserve with login/signup, cancel reservations, create tours, and delete them if needed, with reservations tied to tours."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
