@@ -705,12 +705,12 @@
                                                 children: [
                                                     (0, l.jsx)("a", {
                                                         className: "px-btni px-btn-theme px-btn1",
-                                                        href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                        href: "#",
                                                         children: "Preview"
                                                     }),
                                                     (0, l.jsx)("a", {
                                                         className: "px-btni px-btn-theme px-btn2",
-                                                        href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                        href: "#",
                                                         children: "Github"
                                                     })
                                                 ]
@@ -744,12 +744,12 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Github"
                                                 })
                                             ]
@@ -783,12 +783,12 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Github"
                                                 })
                                             ]
@@ -822,12 +822,12 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Github"
                                                 })
                                             ]
@@ -861,12 +861,12 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Github"
                                                 })
                                             ]
@@ -900,12 +900,12 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                    href: "#",
                                                     children: "Github"
                                                 })
                                             ]
@@ -913,9 +913,16 @@
                                     })]
                                     })
                                 })]
+                            }),(0, l.jsx)("div", {
+                                className: "col-12 read-more-blog text-center",
+                                children: (0, l.jsx)("a", {
+                                    className: "px-btn px-btn-theme",
+                                    href: "more-work.html",
+                                    children: "More Work"
+                                })
                             }), (0, l.jsx)("div", {
                                 className: "separated"
-                            }), (0, l.jsx)(c, {})]
+                            })]
                         })
                     })
                 };

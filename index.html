@@ -16,8 +16,7 @@
     <script src="./js/menu.js" defer=""></script>
     <script src="./js/about.js" defer=""></script>
     <script src="./js/home.js" defer=""></script>
-    <script src="./js/portfolio.js" defer=""></script>
-    <script src="./js/services.js" defer=""></script>
+    
               <link
               rel="stylesheet"
               href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
@@ -31,8 +30,33 @@
               rel="stylesheet"
             />
 
-            
+            <script>
+              // Function to handle scrolling to sections based on query strings
+              function scrollToSection(sectionId) {
+                  var section = document.getElementById(sectionId);
+                  if (section) {
+                      section.scrollIntoView({ behavior: 'smooth' });
+                  }
+              }
+      
+              // Function to parse query strings from the URL
+              function parseQueryString() {
+                  var queryString = window.location.search;
+                  var params = new URLSearchParams(queryString);
+                  return params;
+              }
+      
+              // On page load, check if there's a query string indicating which section to scroll to
+              window.onload = function() {
+                  var params = parseQueryString();
+                  var sectionId = params.get('section');
+                  if (sectionId) {
+                      scrollToSection(sectionId);
+                  }
+              }
+          </script>
       </head>
+      
       
       <body>
 

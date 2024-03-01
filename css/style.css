@@ -2345,3 +2345,22 @@ mark {
 .theme-light .feature-box-2:hover p {
     color: #fff;
 }
+
+.back-button {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 1000;
+}
+.back-button:hover {
+    background-color: #eee;
+}
+.back-button img {
+    width: 20px;
+    height: 20px;
+}
