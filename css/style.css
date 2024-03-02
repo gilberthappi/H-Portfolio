@@ -2241,6 +2241,13 @@ mark {
 @media (max-width: 991px) {
     .px-btn2 {
        margin-top: 0px;
+       right: 0px;
+    }
+   }
+
+   @media (max-width: 600px) {
+    .px-btn2 {
+       margin-top: 0px;
        right: -150px;
     }
    }
