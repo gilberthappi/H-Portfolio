@@ -48,7 +48,7 @@
                         }), (0, i.jsx)("link", {
                             rel: "shortcut icon",
                             type: "image/x-icon",
-                            href: "/favicon.ico"
+                            href: "../img/happii.png"
                         }), (0, i.jsx)("link", {
                             href: "css/design.css",
                             rel: "stylesheet"
