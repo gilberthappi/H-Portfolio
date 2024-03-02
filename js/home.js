@@ -185,7 +185,7 @@
                                                     className: "btn-bar",
                                                     children: (0, i.jsx)("a", {
                                                         className: "px-btn px-btn-theme",
-                                                        href: "https://drive.usercontent.google.com/u/0/uc?id=1OpqblPg8_TfwvIqIJNs-MvZgp46dytTJ&export=download",
+                                                        href: "https://drive-data-export.usercontent.google.com/download/suo6ecvb0hdiqjqfchh22uadrsvc1d59/bm91fdpr8djooktk0kmmeai24o6unb14/1709361000000/684ca1b3-d432-45c8-8321-f0fe4bf53594/116607490392691514853/ADt3v-OnP8potZyA2UOmAuDjcBGjvj2mWDCkh84DoiDK4dzzDRvXrU4862b3S4--FkXy6dmaZdSRtB7BcYg5vzee01iXRZ5o_cf08W3iqzFsMeERDhgUi7O-0qsuGX9gWEcc8Nvrv4BbhjZA3oWGMLyujfumd424C9wQ1EHALXsloHv0eiGvjGnDgZVL7o9F4kS29ZUUk0yPlQVRV5bux75yF0_VmFIxLM5ao9fCL7Ja8IDRjU1padCSTlf4iE0Dki4bPyO8jRp-B2oChrnxw8oa25jheTZ-nqsSv62rLt0CctiUYvJURTZe-t9A-fDTjl14FpaTA7LSgqpZIISeL2_hxnAtzebFeg==?j=684ca1b3-d432-45c8-8321-f0fe4bf53594&user=1066506707178&i=0&authuser=0",
                                                         children: "Download CV"
                                                     })
                                                 })]
