@@ -724,7 +724,7 @@
                                                 children: [
                                                     (0, l.jsx)("img", {
                                                         className: "icon theme-bg",
-                                                        src: "../img/math.png",
+                                                        src: "img/math.png",
                                                         title: "",
                                                         alt: ""
                                                     }),
