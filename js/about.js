@@ -326,19 +326,52 @@
                         j = x[0],
                         u = x[1],
                         p = function(e) {
-                            return i((0, c.Z)((0, a.Z)({}, s), (0, l.Z)({}, e.target.name, e.target.value)))
+                            return i(Object.assign({}, s, {
+                                [e.target.name]: e.target.value
+                            }));
                         },
                         g = function(e) {
-                            e.preventDefault(), 0 === t.length || 0 === o.length || 0 === m.length || 0 === h.length ? (u(!0), v()) : d.ZP.send("service_seruhwu", "template_21aw58z", s, "Q3pccdLZhU-mZT7tQ").then(function(e) {
-                                u(!1), v(), i({
-                                    name: "",
-                                    email: "",
-                                    message: "",
-                                    subject: ""
+                            e.preventDefault();
+                            if (t.length === 0 || o.length === 0 || m.length === 0 || h.length === 0) {
+                                u(true);
+                                v();
+                            } else {
+                                const formData = {
+                                    fullName: t,
+                                    email: o,
+                                    phoneNumber: '', // If you have a phone number field, add its value here
+                                    subject: h,
+                                    message: m
+                                };
+        
+                                fetch('https://contact-api-dmk4.onrender.com/api/v1/cont/contact', {
+                                    method: 'POST',
+                                    headers: {
+                                        'Content-Type': 'application/json'
+                                    },
+                                    body: JSON.stringify(formData)
                                 })
-                            }, function(e) {
-                                console.log(e.text)
-                            })
+                                .then(response => {
+                                    if (response.ok) {
+                                        u(false);
+                                        v();
+                                        i({
+                                            name: "",
+                                            email: "",
+                                            message: "",
+                                            subject: ""
+                                        });
+                                        console.log("Message sent successfully");
+                                        setNotification("Message Sent Successfully");
+                                    } else {
+                                        throw new Error('Failed to send message');
+                                    }
+                                })
+                                .catch(error => {
+                                    console.error("Error sending message:", error);
+                                    setNotification("Message Sending Failed");
+                                });
+                            }
                         },
                         v = function() {
                             setTimeout(function() {
