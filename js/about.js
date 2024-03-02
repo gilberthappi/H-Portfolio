@@ -763,7 +763,7 @@
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "../img/travell_website_project.jpeg",
+                                                    src: "img/travell_website_project.jpeg",
                                                     title: "",
                                                     alt: ""
                                                 }),
@@ -802,7 +802,7 @@
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "../img/budget-app.png",
+                                                    src: "img/budget-app.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
@@ -841,7 +841,7 @@
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "../img/Cryptocurrency_project.webp",
+                                                    src: "img/Cryptocurrency_project.webp",
                                                     title: "",
                                                     alt: ""
                                                 }),
@@ -880,7 +880,7 @@
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "../img/foodify_website.png",
+                                                    src: "img/foodify_website.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
@@ -919,7 +919,7 @@
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "../img/bookme.png",
+                                                    src: "./img/bookme.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
