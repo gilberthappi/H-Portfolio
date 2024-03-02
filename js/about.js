@@ -919,7 +919,7 @@
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "./img/bookme.png",
+                                                    src: "img/bookme.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
