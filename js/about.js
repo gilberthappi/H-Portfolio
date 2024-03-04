@@ -777,12 +777,12 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "#",
+                                                    href: "https://gilberthappi.github.io/A-Tourism-Website/",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "#",
+                                                    href: "https://github.com/gilberthappi/A-Tourism-Website",
                                                     children: "Github"
                                                 })
                                             ]
