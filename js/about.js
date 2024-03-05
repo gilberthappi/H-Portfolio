@@ -739,11 +739,13 @@
                                                     (0, l.jsx)("a", {
                                                         className: "px-btni px-btn-theme px-btn1",
                                                         href: "https://math-magicians-rm17.onrender.com",
+                                                        target:"_blank",
                                                         children: "Preview"
                                                     }),
                                                     (0, l.jsx)("a", {
                                                         className: "px-btni px-btn-theme px-btn2",
                                                         href: "https://github.com/gilberthappi/math-magicians",
+                                                        target:"_blank",
                                                         children: "Github"
                                                     })
                                                 ]
@@ -778,11 +780,13 @@
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
                                                     href: "https://gilberthappi.github.io/A-Tourism-Website/",
+                                                    target:"_blank",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
                                                     href: "https://github.com/gilberthappi/A-Tourism-Website",
+                                                    target:"_blank",
                                                     children: "Github"
                                                 })
                                             ]
@@ -817,11 +821,13 @@
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
                                                     href: "https://budget-app-nqso.onrender.com/",
+                                                    target:"_blank",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
                                                     href: "https://github.com/gilberthappi/RoR_budget_App",
+                                                    target:"_blank",
                                                     children: "Github"
                                                 })
                                             ]

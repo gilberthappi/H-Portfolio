@@ -1132,26 +1132,31 @@
                                 className: "nav justify-content-center social-icons",
                                 children: [(0, a.jsx)("a", {
                                     href: "https://www.facebook.com/mrHappiRwanda",
+                                    target:"_blank",
                                     children: (0, a.jsx)("i", {
                                         className: "fab fa-facebook-f"
                                     })
                                 }), (0, a.jsx)("a", {
                                     href: "https://twitter.com/DushimimanaGil3",
+                                    target:"_blank",
                                     children: (0, a.jsx)("i", {
                                         className: "fab fa-twitter"
                                     })
                                 }), (0, a.jsx)("a", {
                                     href: "https://www.instagram.com/happii_official/",
+                                    target:"_blank",
                                     children: (0, a.jsx)("i", {
                                         className: "fab fa-instagram"
                                     })
                                 }), (0, a.jsx)("a", {
                                     href: "https://www.linkedin.com/in/dushimimana-gilbert-happi/",
+                                    target:"_blank",
                                     children: (0, a.jsx)("i", {
                                         className: "fab fa-linkedin-in"
                                     })
                                 }), (0, a.jsx)("a", {
                                     href: "http://github.com/gilberthappi/",
+                                    target:"_blank",
                                     children: (0, a.jsx)("i", {
                                         className: "fab fa-github"
                                     })

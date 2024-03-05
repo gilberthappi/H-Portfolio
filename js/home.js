@@ -186,6 +186,7 @@
                                                     children: (0, i.jsx)("a", {
                                                         className: "px-btn px-btn-theme",
                                                         href: "https://drive.usercontent.google.com/download?id=15QpzKoG83_dyXbBQBEouJAA5oMiPgwMH&export=download&authuser=0&confirm=t&uuid=fb41f18d-728e-4133-8c41-f5e75f4e41b5&at=APZUnTWv1KLIuhlknNDqVavhCnGB:1709377856361",
+                                                        target:"_blank",
                                                         children: "Download CV"
                                                     })
                                                 })]
