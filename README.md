@@ -31,11 +31,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="download.jpeg" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Portfolio</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -71,7 +67,7 @@ finish mobile version
 ## 🛠 Built With <a name="built-with"></a>
 
 # Portfolio - live Demo.
-  ![Live Demo](https://gilberthappi.github.io/H-Portfolio/)
+  [Live Demo](https://gilberthappi.github.io/H-Portfolio/)
 
   # Screenshots from Desktop version.
   ![screenshot](./img/desktop1.png)
