@@ -828,124 +828,127 @@
                                         }), ]
                                     })]
                                     })
-                                }), (0, l.jsx)("div", {
-                                    className: "col-sm-4 m-15px-tb",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "feature-content media-body",
-                                            children: [(0, l.jsx)("h5", {
-                                                children: "Token World (Crypto)"
-                                            }),(0, l.jsx)("div", {
-                                            className: "image-container",
-                                            children: [
-                                                (0, l.jsx)("img", {
-                                                    className: "icon theme-bg",
-                                                    src: "img/Cryptocurrency_project.webp",
-                                                    title: "",
-                                                    alt: ""
-                                                }),
-                                                (0, l.jsx)("div", {
-                                                    className: "description",
-                                                    children: "Discover comprehensive cryptocurrency data, including market cap, top and low selling prices, historical trends, and essential advice for informed decision-making, all on one platform."
-                                                })
-                                            ]
-                                        }),(0, l.jsx)("div", {
-                                            className: "btn-bar",
-                                            children: [
-                                                (0, l.jsx)("a", {
-                                                    className: "px-btni px-btn-theme px-btn1",
-                                                    href: "#",
-                                                    children: "Preview"
-                                                }),
-                                                (0, l.jsx)("a", {
-                                                    className: "px-btni px-btn-theme px-btn2",
-                                                    href: "#",
-                                                    children: "Github"
-                                                })
-                                            ]
-                                        }), ]
-                                    })]
-                                    })
-                                }), (0, l.jsx)("div", {
-                                    className: "col-sm-4 m-15px-tb",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "feature-content media-body",
-                                            children: [(0, l.jsx)("h5", {
-                                                children: "Recipe App"
-                                            }),(0, l.jsx)("div", {
-                                            className: "image-container",
-                                            children: [
-                                                (0, l.jsx)("img", {
-                                                    className: "icon theme-bg",
-                                                    src: "img/foodify_website.png",
-                                                    title: "",
-                                                    alt: ""
-                                                }),
-                                                (0, l.jsx)("div", {
-                                                    className: "description",
-                                                    children: "Explore a culinary journey worldwide, from Britain to Australia, featuring top-notch food and diverse recipes. Engage with likes and comments to share your culinary experiences."
-                                                })
-                                            ]
-                                        }),(0, l.jsx)("div", {
-                                            className: "btn-bar",
-                                            children: [
-                                                (0, l.jsx)("a", {
-                                                    className: "px-btni px-btn-theme px-btn1",
-                                                    href: "#",
-                                                    children: "Preview"
-                                                }),
-                                                (0, l.jsx)("a", {
-                                                    className: "px-btni px-btn-theme px-btn2",
-                                                    href: "#",
-                                                    children: "Github"
-                                                })
-                                            ]
-                                        }), ]
-                                    })]
-                                    })
-                                }), (0, l.jsx)("div", {
-                                    className: "col-sm-4 m-15px-tb",
-                                    children: (0, l.jsxs)("div", {
-                                        className: "feature-box-01 media",
-                                        children: [(0, l.jsxs)("div", {
-                                            className: "feature-content media-body",
-                                            children: [(0, l.jsx)("h5", {
-                                                children: "BookMe"
-                                            }),(0, l.jsx)("div", {
-                                            className: "image-container",
-                                            children: [
-                                                (0, l.jsx)("img", {
-                                                    className: "icon theme-bg",
-                                                    src: "img/bookme.png",
-                                                    title: "",
-                                                    alt: ""
-                                                }),
-                                                (0, l.jsx)("div", {
-                                                    className: "description",
-                                                    children: "An app enabling users to browse effortlessly. View all available tours, reserve with login/signup, cancel reservations, create tours, and delete them if needed, with reservations tied to tours."
-                                                })
-                                            ]
-                                        }),(0, l.jsx)("div", {
-                                            className: "btn-bar",
-                                            children: [
-                                                (0, l.jsx)("a", {
-                                                    className: "px-btni px-btn-theme px-btn1",
-                                                    href: "#",
-                                                    children: "Preview"
-                                                }),
-                                                (0, l.jsx)("a", {
-                                                    className: "px-btni px-btn-theme px-btn2",
-                                                    href: "#",
-                                                    children: "Github"
-                                                })
-                                            ]
-                                        }), ]
-                                    })]
-                                    })
-                                })]
+                                }), 
+                                // (0, l.jsx)("div", {
+                                //     className: "col-sm-4 m-15px-tb",
+                                //     children: (0, l.jsxs)("div", {
+                                //         className: "feature-box-01 media",
+                                //         children: [(0, l.jsxs)("div", {
+                                //             className: "feature-content media-body",
+                                //             children: [(0, l.jsx)("h5", {
+                                //                 children: "Token World (Crypto)"
+                                //             }),(0, l.jsx)("div", {
+                                //             className: "image-container",
+                                //             children: [
+                                //                 (0, l.jsx)("img", {
+                                //                     className: "icon theme-bg",
+                                //                     src: "img/Cryptocurrency_project.webp",
+                                //                     title: "",
+                                //                     alt: ""
+                                //                 }),
+                                //                 (0, l.jsx)("div", {
+                                //                     className: "description",
+                                //                     children: "Discover comprehensive cryptocurrency data, including market cap, top and low selling prices, historical trends, and essential advice for informed decision-making, all on one platform."
+                                //                 })
+                                //             ]
+                                //         }),(0, l.jsx)("div", {
+                                //             className: "btn-bar",
+                                //             children: [
+                                //                 (0, l.jsx)("a", {
+                                //                     className: "px-btni px-btn-theme px-btn1",
+                                //                     href: "#",
+                                //                     children: "Preview"
+                                //                 }),
+                                //                 (0, l.jsx)("a", {
+                                //                     className: "px-btni px-btn-theme px-btn2",
+                                //                     href: "#",
+                                //                     children: "Github"
+                                //                 })
+                                //             ]
+                                //         }), ]
+                                //     })]
+                                //     })
+                                // }), (0, l.jsx)("div", {
+                                //     className: "col-sm-4 m-15px-tb",
+                                //     children: (0, l.jsxs)("div", {
+                                //         className: "feature-box-01 media",
+                                //         children: [(0, l.jsxs)("div", {
+                                //             className: "feature-content media-body",
+                                //             children: [(0, l.jsx)("h5", {
+                                //                 children: "Recipe App"
+                                //             }),(0, l.jsx)("div", {
+                                //             className: "image-container",
+                                //             children: [
+                                //                 (0, l.jsx)("img", {
+                                //                     className: "icon theme-bg",
+                                //                     src: "img/foodify_website.png",
+                                //                     title: "",
+                                //                     alt: ""
+                                //                 }),
+                                //                 (0, l.jsx)("div", {
+                                //                     className: "description",
+                                //                     children: "Explore a culinary journey worldwide, from Britain to Australia, featuring top-notch food and diverse recipes. Engage with likes and comments to share your culinary experiences."
+                                //                 })
+                                //             ]
+                                //         }),(0, l.jsx)("div", {
+                                //             className: "btn-bar",
+                                //             children: [
+                                //                 (0, l.jsx)("a", {
+                                //                     className: "px-btni px-btn-theme px-btn1",
+                                //                     href: "#",
+                                //                     children: "Preview"
+                                //                 }),
+                                //                 (0, l.jsx)("a", {
+                                //                     className: "px-btni px-btn-theme px-btn2",
+                                //                     href: "#",
+                                //                     children: "Github"
+                                //                 })
+                                //             ]
+                                //         }), ]
+                                //     })]
+                                //     })
+                                // }), (0, l.jsx)("div", {
+                                //     className: "col-sm-4 m-15px-tb",
+                                //     children: (0, l.jsxs)("div", {
+                                //         className: "feature-box-01 media",
+                                //         children: [(0, l.jsxs)("div", {
+                                //             className: "feature-content media-body",
+                                //             children: [(0, l.jsx)("h5", {
+                                //                 children: "BookMe"
+                                //             }),(0, l.jsx)("div", {
+                                //             className: "image-container",
+                                //             children: [
+                                //                 (0, l.jsx)("img", {
+                                //                     className: "icon theme-bg",
+                                //                     src: "img/bookme.png",
+                                //                     title: "",
+                                //                     alt: ""
+                                //                 }),
+                                //                 (0, l.jsx)("div", {
+                                //                     className: "description",
+                                //                     children: "An app enabling users to browse effortlessly. View all available tours, reserve with login/signup, cancel reservations, create tours, and delete them if needed, with reservations tied to tours."
+                                //                 })
+                                //             ]
+                                //         }),(0, l.jsx)("div", {
+                                //             className: "btn-bar",
+                                //             children: [
+                                //                 (0, l.jsx)("a", {
+                                //                     className: "px-btni px-btn-theme px-btn1",
+                                //                     href: "#",
+                                //                     children: "Preview"
+                                //                 }),
+                                //                 (0, l.jsx)("a", {
+                                //                     className: "px-btni px-btn-theme px-btn2",
+                                //                     href: "#",
+                                //                     children: "Github"
+                                //                 })
+                                //             ]
+                                //         }), ]
+                                //     })]
+                                //     })
+                                
+                                // })
+                            ]
                             }),(0, l.jsx)("div", {
                                 className: "col-12 read-more-blog text-center",
                                 children: (0, l.jsx)("a", {
