@@ -883,19 +883,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Recipe App"
+                                                children: "Space-Traveller"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/foodify_website.png",
+                                                    src: "img/space.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Explore a culinary journey worldwide, from Britain to Australia, featuring top-notch food and diverse recipes. Engage with likes and comments to share your culinary experiences."
+                                                    children: "Embark on an interstellar adventure with our space-travel booking platform, where you can reserve your seat on a Dragon rocket for your next mission to the stars."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
@@ -903,12 +903,14 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "#",
+                                                    href: "https://space-travelling-gamma.vercel.app/",
+                                                    target:"_blank",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
                                                     href: "#",
+                                                    target:"_blank",
                                                     children: "Github"
                                                 })
                                             ]
@@ -922,19 +924,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "BookMe"
+                                                children: "BookStore"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/bookme.png",
+                                                    src: "img/book.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "An app enabling users to browse effortlessly. View all available tours, reserve with login/signup, cancel reservations, create tours, and delete them if needed, with reservations tied to tours."
+                                                    children: "Discover, learn, and expand your library with our innovative book store platform, course progress seamlessly while allowing you to effortlessly add new books to your collection."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
