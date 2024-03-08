@@ -842,19 +842,19 @@
                                         children: [(0, l.jsxs)("div", {
                                             className: "feature-content media-body",
                                             children: [(0, l.jsx)("h5", {
-                                                children: "Token World (Crypto)"
+                                                children: "World Population"
                                             }),(0, l.jsx)("div", {
                                             className: "image-container",
                                             children: [
                                                 (0, l.jsx)("img", {
                                                     className: "icon theme-bg",
-                                                    src: "img/Cryptocurrency_project.webp",
+                                                    src: "img/continent.png",
                                                     title: "",
                                                     alt: ""
                                                 }),
                                                 (0, l.jsx)("div", {
                                                     className: "description",
-                                                    children: "Discover comprehensive cryptocurrency data, including market cap, top and low selling prices, historical trends, and essential advice for informed decision-making, all on one platform."
+                                                    children: "Discover population totals, currency details, and languages spoken in each country, providing invaluable insights into global demographics and cultural diversity."
                                                 })
                                             ]
                                         }),(0, l.jsx)("div", {
@@ -862,12 +862,14 @@
                                             children: [
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn1",
-                                                    href: "#",
+                                                    href: "https://metrics-webapp-eta.vercel.app/",
+                                                    target:"_blank",
                                                     children: "Preview"
                                                 }),
                                                 (0, l.jsx)("a", {
                                                     className: "px-btni px-btn-theme px-btn2",
-                                                    href: "#",
+                                                    href: "https://github.com/gilberthappi/metrics-webapp",
+                                                    target:"_blank",
                                                     children: "Github"
                                                 })
                                             ]
