@@ -115,7 +115,7 @@
                                             })]
                                         }), (0, l.jsxs)("li", {
                                             children: [(0, l.jsx)("span", {
-                                                children: "2023-present"
+                                                children: "2023-2024"
                                             }), (0, l.jsx)("h6", {
                                                 children: "Full-Stack Developer"
                                             }), (0, l.jsx)("p", {
@@ -221,7 +221,7 @@
                                                 children: [(0, l.jsx)("h6", {
                                                     children: "Full-Stack Developer"
                                                 }), (0, l.jsx)("label", {
-                                                    children: "Microverse | Remote | Jun 2023 - Present"
+                                                    children: "Microverse | Remote | Jun 2023 - Feb 2024"
                                                 }), (0, l.jsx)("div", {
                                                     className: "rb-time",
                                                     children: "Full Time"
@@ -252,7 +252,7 @@
                                                 children: [(0, l.jsx)("h6", {
                                                     children: "Full-Stack Developer"
                                                 }), (0, l.jsx)("label", {
-                                                    children: "ALX | Remote | Jan 2023 - Present"
+                                                    children: "ALX | Remote | Jan 2023 - March 2024"
                                                 }), (0, l.jsx)("div", {
                                                     className: "rb-time",
                                                     children: "Full Time"
